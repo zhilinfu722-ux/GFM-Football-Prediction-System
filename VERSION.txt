@@ -1,0 +1,4 @@
+GFM Football Prediction System
+Version: 1.2.0
+Build type: Local Windows-first MVP
+Model: GFM-1.2.0-elo-poisson-dc
