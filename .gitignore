@@ -6,6 +6,8 @@
 
 # Python environments
 .venv/
+.venv_x64/
+.venv_backup_old/
 venv/
 
 # Python cache and test artifacts
